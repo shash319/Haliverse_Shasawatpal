@@ -18,9 +18,10 @@ function App() {
       selectedPage >= 1 &&
       selectedPage <= Records.length &&
       selectedPage !== page
-    )
+    ){
     setPage(selectedPage);
   }
+};
 
 
   return (
@@ -59,8 +60,10 @@ function App() {
             onClick={() => selectPg(page + 1)}> ▶</span>
           </div>
         }
+      
     </div>
-  );
+      
+    );
 }
 
 export default App;
