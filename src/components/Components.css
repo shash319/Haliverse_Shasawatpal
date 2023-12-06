@@ -1,0 +1,22 @@
+.filtr{
+    display: flex; 
+    flex-direction: row; 
+    background-color: rgb(123, 255, 0);
+    padding:10px;
+    margin: 0px;
+    justify-content: center;
+    align-items: center;
+    line-height: 40px;
+}
+
+.filtr svg{
+    margin-top: 5px;
+    margin-left: 40px ;
+    margin-right: 10px;
+}
+
+.filtr h3{
+    margin-right: 20px;
+}
+
+
