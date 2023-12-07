@@ -10,7 +10,7 @@ const header={
 
     return (  
     <div >
-        <h1 style={header}>Heliverse</h1>
+        <h1 style={header}>Heliverse Private Ltd.</h1>
     </div>
     );
 }
