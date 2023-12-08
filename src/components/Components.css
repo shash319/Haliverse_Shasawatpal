@@ -1,7 +1,7 @@
 .filtr{
     display: flex; 
     flex-direction: row; 
-    background-color: #ff0000;
+    background-color: aqua;
     padding:10px;
     margin: 0px;
     justify-content: center;
