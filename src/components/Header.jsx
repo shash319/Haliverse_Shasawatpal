@@ -10,7 +10,7 @@ const header={
 
     return (  
     <div >
-        <h1 style={header}>H.E.L.I.V.E.R.S.E</h1>
+        <h1 style={header}>H.E.L.I.V.E.R.SE</h1>
     </div>
     );
 }
