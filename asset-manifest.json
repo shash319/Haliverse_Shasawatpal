@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Haliverse_Shasawatpal/static/css/main.81910849.css",
-    "main.js": "/Haliverse_Shasawatpal/static/js/main.fec7d46d.js",
+    "main.js": "/Haliverse_Shasawatpal/static/js/main.a9f18b30.js",
     "static/js/787.bfca233e.chunk.js": "/Haliverse_Shasawatpal/static/js/787.bfca233e.chunk.js",
     "index.html": "/Haliverse_Shasawatpal/index.html",
     "main.81910849.css.map": "/Haliverse_Shasawatpal/static/css/main.81910849.css.map",
-    "main.fec7d46d.js.map": "/Haliverse_Shasawatpal/static/js/main.fec7d46d.js.map",
+    "main.a9f18b30.js.map": "/Haliverse_Shasawatpal/static/js/main.a9f18b30.js.map",
     "787.bfca233e.chunk.js.map": "/Haliverse_Shasawatpal/static/js/787.bfca233e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.81910849.css",
-    "static/js/main.fec7d46d.js"
+    "static/js/main.a9f18b30.js"
   ]
 }
